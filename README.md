@@ -34,3 +34,6 @@ Objective:
 The objective of this project is to conduct a comprehensive analysis of YouTube songs data using Power BI. You will create visualizations and reports that provide a deeper understanding of YouTube songs' performance, popularity, and user engagement. By the end of this task, you will have developed interactive dashboards and reports that can help content creators and stakeholders optimize their YouTube song content strategy.
 
 This experience will significantly enhance my data analysis abilities and provide practical insights into leveraging data for informed decision-making.
+
+
+![DA Mentorness internship certificate ](https://github.com/SuzyAdel/Data_Analysis_Intern/assets/128175020/de9f31e1-5ece-485e-a087-2001e3b67311)
